@@ -1,3 +1,5 @@
+This assignment aims to solve machine learning questions surrounding the goodreads dataset.
+
 # [Goodreads Datasets](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 
 The datasets were collected in late 2017 from [goodreads](https://goodreads.com). Details of the datasets are described in the [dataset website](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
